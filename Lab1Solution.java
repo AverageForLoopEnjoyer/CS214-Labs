@@ -28,7 +28,7 @@ public class Lab1Solution{
     static void addCallers(Queue<Caller> queue){
         queue.offer(new Caller(9253817));
         queue.offer(new Caller(9589388));
-        queue.offer(new Caller(9318492, "Aveshal", "I Would Like To Speak To Your Boyyy"));
+        queue.offer(new Caller(9318492, "Aveshal", "I Would Like To Speak To Your manager"));
         queue.offer(new Caller(2293013));
         queue.offer(new Caller(7438293, "Ashilta", "Hello World"));
 
